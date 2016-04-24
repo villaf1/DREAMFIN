@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Educa</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
